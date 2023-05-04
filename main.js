@@ -92,8 +92,8 @@ let movies = [
   new Moviee(3, "./play-page/transformer/transformer.webp", "Transformer 5: Chiến Binh Cuối Cùng", "transformer.html"),
   new Moviee(4, "./play-page/black-adam/black-dam-img.webp", "Black Adam", "blackAdam.html"),
   new Moviee(5, "./play-page/deadpool/img-deadpool.jpeg", "Deadpool", "deadpool.html"),
-  new Moviee(6, "./play-page/MoonKnight/img-monnKnight.jpeg", "Hiệp Sĩ Mặt Trăng", "moonKnight.html"),
-  new Moviee(7, "./img/venom.jpeg", "Venom", "venom.html"),
+  new Moviee(6, "./play-page/MoonKnight/MoonKnight-avatar.webp", "Hiệp Sĩ Mặt Trăng", "moonKnight.html"),
+  new Moviee(7, "./play-page/venom/venom_avatar.jpg", "Venom", "venom.html"),
   new Moviee(8, "./play-page/docter/docter.webp", "DOCTOR STRANGE 2", "doctor.html"),
 ]
 function waterss() {

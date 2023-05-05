@@ -87,8 +87,8 @@ class Moviee {
   }
 }
 let movies = [
-  new Moviee(1, "./play-page/avengers_2/avengers-end.jpg", "Avengers 3: Hồi Kết", "avengers_2.html"),
-  new Moviee(2, "./img/avengers.jpg", "Avengers : cuộc chiến vô cực", "play.html"),
+  new Moviee(1, "./play-page/avengers_2/avengers-end.jpg", "Avengers 3: Hồi Kết", "avengers_1.html"),
+  new Moviee(2, "./img/avengers.jpg", "Avengers : cuộc chiến vô cực", "avengers_1.html"),
   new Moviee(3, "./play-page/transformer/transformer.webp", "Transformer 5: Chiến Binh Cuối Cùng", "transformer.html"),
   new Moviee(4, "./play-page/black-adam/black-dam-img.webp", "Black Adam", "blackAdam.html"),
   new Moviee(5, "./play-page/deadpool/img-deadpool.jpeg", "Deadpool", "deadpool.html"),
